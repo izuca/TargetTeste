@@ -1,5 +1,9 @@
 {
+  "type": "module",
   "dependencies": {
     "node": "^18.5.0"
+  },
+  "scripts": {
+    "q3": "node --experimental-json-modules 3.js"
   }
 }
